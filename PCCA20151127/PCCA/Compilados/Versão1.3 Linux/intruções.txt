@@ -1,0 +1,8 @@
+===Instruções===
+1º - Copie a pasta "PCCA" para o local de instalação do programa. Pode ser qualquer local que ele possa fazer alterações no HD.
+
+2º - Copie o arquivo "val.vld" que está dentro da pasta "Validador" e cole dentro da pasta "C:\Users\Public\".
+
+3º - Crie um atalho em sua area de trabalho do arquivo executável "PCCA.exe" que está dentro da pasta "PCCA" que foi copiada para seu computador.
+
+4º - Clique duas vezes no atalho criado.
